@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://github.com/Krishna-123/vk_view_tool"
+  spec.homepage      = "https://rubygems.org/gems/vk_view_tool"
   spec.license       = "MIT"
 =begin
   spec.metadata["allowed_push_host"] = "http://rubygems.org"
