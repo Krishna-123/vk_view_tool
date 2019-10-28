@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    vk_view_tool (0.1.0)
+    vk_view_tool (0.1.1)
 
 GEM
   remote: https://rubygems.org/
