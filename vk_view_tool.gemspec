@@ -12,9 +12,9 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Provides generated HTML data for Rails applications.}
   spec.homepage      = "https://github.com/Krishna-123/vk_view_tool"
   spec.license       = "MIT"
-
+=begin
   spec.metadata["allowed_push_host"] = "http://rubygems.org"
-
+=end
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/Krishna-123/vk_view_tool"
   spec.metadata["changelog_uri"] = "https://github.com/Krishna-123/vk_view_tool/blob/master/CHANGELOG.md"
