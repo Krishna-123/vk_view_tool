@@ -1,5 +1,6 @@
 # VkViewTool
 > various view specific methods for applications I use.
+> updated the version 0.1.1
 
 ## Installation
 
